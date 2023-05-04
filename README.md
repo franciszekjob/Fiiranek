@@ -29,6 +29,14 @@ DB:<br>
 Other tools:<br>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)    ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
+Projects:<br>
+[Swappy](https://devpost.com/software/mad-crunchy-byte-swappy)
+[Property price estimator](https://github.com/Fiiranek/property-price)
+[Openleague Scores](https://openleaguescores.web.app/)
+[ADA AI Art](https://adaai.art/)
+[Robot](https://github.com/Fiiranek/ZSLRobot)
+[Dr Mario](https://fiiranek.github.io/dr-mario/) (Repo())
+[The Atomic Heroes](https://www.theatomicheroes.com/)
+[Artico](https://github.com/Fiiranek/SocialNetwork)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
