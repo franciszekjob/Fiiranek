@@ -29,7 +29,8 @@ DB:<br>
 Other tools:<br>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)    ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![AWSS3](https://img.shields.io/badge/aws-%23F24E1E.svg?style=for-the-badge&logo=amazon&logoColor=white)
 
-Projects:<br>
+Projects:<be>
+[Algorithms and Data structures](https://github.com/Fiiranek/ADS)<br>
 [Swappy](https://devpost.com/software/mad-crunchy-byte-swappy)<br>
 [Property price estimator](https://github.com/Fiiranek/property-price)<br>
 [Openleague Scores](https://openleaguescores.web.app/)<br>
@@ -38,5 +39,6 @@ Projects:<br>
 [Dr Mario](https://fiiranek.github.io/dr-mario/)<br>
 [The Atomic Heroes](https://www.theatomicheroes.com/)<br>
 [Artico](https://github.com/Fiiranek/SocialNetwork)<br>
+[Cube Jumper](https://github.com/Fiiranek/CubeJumper)<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
