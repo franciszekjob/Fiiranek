@@ -1,5 +1,5 @@
 # About Me
-👋 Hi, I'm Franek, Im 20yo.<br>Currently studying CS on at AGH IET 🔭, passionate<br>about 👨‍💻 programming and 🎾 tennis.
+👋 Hi, I'm Franek, Im 21yo.<br>Currently studying CS on at AGH IET 🔭, passionate<br>about 👨‍💻 programming and 🎾 tennis.
 
 
 ## 🌐 Socials:
